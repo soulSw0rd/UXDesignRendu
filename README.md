@@ -8,7 +8,7 @@
 
 
 ## Un dossier ou une présentation contenant :
-1. Description de la problématique
+### 1. Description de la problématique
 
 Comment rendre l'expérience utilisateur sur le site RFC plus fluide et plus satisfaisante, afin de répondre aux besoins et aux attentes des utilisateurs de manière efficace et intuitive ?
 
