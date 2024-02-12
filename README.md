@@ -31,7 +31,7 @@ Comment rendre l'expérience utilisateur sur le site RFC plus fluide et plus sat
 
 ### 4. Maquette et enchaînement de plusieurs écrans : Prototype
 
-Prototype : 
+- Prototype : 
   - Pour Ordinateur :
     [Lien Figma:](https://www.figma.com/proto/RIecnwJnqqKcUQL3OkSIOD/Projhet-UI?type=design&node-id=45-6&t=VJoP36mwD4Bsu802-0&scaling=scale-down&page-id=5%3A3&starting-point-node-id=45%3A6)
 
