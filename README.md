@@ -3,11 +3,11 @@
 ## Sommaire
 - [UXDesignRendu](#uxdesignrendu)
   - [Sommaire](#sommaire)
-- [I. Un dossier ou une présentation contenant](#i_un-dossier-ou-une-présentation-contenant)
-- [II. Site Web](#ii_début-de-la-mise-en-euvre)
+- [I. Un dossier ou une présentation contenant](#i-un-dossier-ou-une-présentation-contenant)
+- [II. Site Web](#ii-début-de-la-mise-en-euvre)
 
 
-## I_Un dossier ou une présentation contenant :
+## I Un dossier ou une présentation contenant :
 ### 1. Description de la problématique
 
 Comment rendre l'expérience utilisateur sur le site RFC plus fluide et plus satisfaisante, afin de répondre aux besoins et aux attentes des utilisateurs de manière efficace et intuitive ?
@@ -47,7 +47,7 @@ Bouton en savoir plus pas assez évident.
 Par la suite nous avons changer l'apparence du bouton et améliorer son rendue.
 ```
 
-## II_Début de la mise en euvre
+## II Début de la mise en euvre
 
 Vous pourrier voir le debut de la réalisation d'un prototipe sur un site web 
 **(Ce dernier n'est pas complet)**
