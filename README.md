@@ -40,7 +40,7 @@ Comment rendre l'expérience utilisateur sur le site RFC plus fluide et plus sat
 
 ### 5. Résultats de tests utilisateurs
 
-Question : Pouvez-vous aller jusqu'au menu de presentation puis sur une RMC ?
+Question : Pouvez-vous aller jusqu'au menu de presentation, puis sur une RMC ?
 
 ```
 Bouton en savoir plus pas assez évident.
