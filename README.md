@@ -8,24 +8,24 @@
 
 
 ## Un dossier ou une présentation contenant :
-- Description de la problématique
+1. Description de la problématique
 
 > Comment rendre l'expérience utilisateur sur le site RFC plus fluide et plus satisfaisante, afin de répondre aux besoins et aux attentes des utilisateurs de manière efficace et intuitive ?
 
 ---
-- Besoin(s) utilisateur(s) clair : Empathy map, persona …
+2. Besoin(s) utilisateur(s) clair : Empathy map, persona …
 ```
 En tant que technicirn résaux  je voudrais me documenter pour renforcer mes compétences
 ```
 
 ---
-- Solution argumentée : 6 to 1, dessins, wireframes
+3. Solution argumentée : 6 to 1, dessins, wireframes
 ```
 image de dessin main
 ```
 
 ---
-- Maquette et enchaînement de plusieurs écrans : Prototype
+4. Maquette et enchaînement de plusieurs écrans : Prototype
 
 Prototype : 
   - Pour Ordinateur :
@@ -35,7 +35,7 @@ Prototype :
     [Lien FIgma](https://www.figma.com/proto/RIecnwJnqqKcUQL3OkSIOD/Projhet-UI?type=design&node-id=132-17&t=jhR4T5HjbP6q6WPQ-0&scaling=scale-down&page-id=5%3A2&starting-point-node-id=132%3A17)
 
 ---
-- Résultats de tests utilisateurs
+5. Résultats de tests utilisateurs
 
 Question : Pouvez-vous aller jusqu'au menu de presentation puis sur une RMC ?
 
