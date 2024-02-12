@@ -19,8 +19,8 @@ Comment rendre l'expérience utilisateur sur le site RFC plus fluide et plus sat
   - **Je voudrais** : C’est l’action exécutée, le comment.
   - **Pour**        : C’est la valeur ajoutée que l’utilisateur obtient de l’action, lié à ses motivations.
 
-- Notre besion utilisateur est :
-En tant que technicien réseau, je voudrais avoir accès à des ressources documentaires pour renforcer mes compétences.
+- Notre besion utilisateur est : 
+***En tant que technicien réseau, je voudrais avoir accès à des ressources documentaires pour renforcer mes compétences.***
 
 ### 3. Solution argumentée : 6 to 1, dessins, wireframes
 
