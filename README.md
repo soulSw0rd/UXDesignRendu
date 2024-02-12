@@ -11,6 +11,9 @@
 ## Un dossier ou une présentation contenant :
 - Description de la problématique
 - Besoin(s) utilisateur(s) clair : Empathy map, persona …
+```
+En tant que … je voudrais … pour …
+```
 - Solution argumentée : 6 to 1, dessins, wireframes
 - Maquette et enchaînement de plusieurs écrans : Prototype
 - Résultats de tests utilisateurs
