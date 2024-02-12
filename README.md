@@ -17,7 +17,7 @@ Comment rendre l'expérience utilisateur sur le site RFC plus fluide et plus sat
 - Le besoin utilisateur
   - **En tant que** : Le rôle se réfère à celui qui fait l’action et qui en profite, c’est votre utilisateur.
   - **Je voudrais** : C’est l’action exécutée, le comment.
-  - **Pour** :C’est la valeur ajoutée que l’utilisateur obtient de l’action, lié à ses motivations.
+  - **Pour** : C’est la valeur ajoutée que l’utilisateur obtient de l’action, lié à ses motivations.
 
 En tant que technicien réseau, je voudrais avoir accès à des ressources documentaires pour renforcer mes compétences.
 
