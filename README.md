@@ -3,29 +3,32 @@
 ## Sommaire
 - [UXDesignRendu](#uxdesignrendu)
   - [Sommaire](#sommaire)
-- [I. Un dossier ou une présentation contenant](#un-dossier-ou-une-présentation-contenant)
-- [II. Site Web]()
+- [I. Un dossier ou une présentation contenant](#i_un-dossier-ou-une-présentation-contenant)
+- [II. Site Web](#ii_début-de-la-mise-en-euvre)
 
 
-## Un dossier ou une présentation contenant :
+## I_Un dossier ou une présentation contenant :
 ### 1. Description de la problématique
 
 Comment rendre l'expérience utilisateur sur le site RFC plus fluide et plus satisfaisante, afin de répondre aux besoins et aux attentes des utilisateurs de manière efficace et intuitive ?
 
+### 2. Besoin(s) utilisateur(s) clair : Empathy map, persona …
 
-2. Besoin(s) utilisateur(s) clair : Empathy map, persona …
-```
-En tant que technicirn résaux  je voudrais me documenter pour renforcer mes compétences
-```
+- Le besoin utilisateur
+  - **En tant que** : Le rôle se réfère à celui qui fait l’action et qui en profite, c’est votre utilisateur.
+  - **Je voudrais** … C’est l’action exécutée, le comment.
+  - **Afin de** … C’est la valeur ajoutée que l’utilisateur obtient de l’action, lié à ses motivations.
+
+En tant que technicien réseau, je voudrais avoir accès à des ressources documentaires pour renforcer mes compétences.
+
+### 3. Solution argumentée : 6 to 1, dessins, wireframes
+
+- Image de dessin :
+![]()
+![]()
 
 
-3. Solution argumentée : 6 to 1, dessins, wireframes
-```
-image de dessin main
-```
-
-
-4. Maquette et enchaînement de plusieurs écrans : Prototype
+### 4. Maquette et enchaînement de plusieurs écrans : Prototype
 
 Prototype : 
   - Pour Ordinateur :
@@ -34,8 +37,7 @@ Prototype :
   - Pour Téléphone :
     [Lien FIgma](https://www.figma.com/proto/RIecnwJnqqKcUQL3OkSIOD/Projhet-UI?type=design&node-id=132-17&t=jhR4T5HjbP6q6WPQ-0&scaling=scale-down&page-id=5%3A2&starting-point-node-id=132%3A17)
 
-
-5. Résultats de tests utilisateurs
+### 5. Résultats de tests utilisateurs
 
 Question : Pouvez-vous aller jusqu'au menu de presentation puis sur une RMC ?
 
@@ -44,7 +46,7 @@ Bouton en savoir plus pas assez évident.
 Par la suite nous avons changer l'apparence du bouton et améliorer son rendue.
 ```
 
-# Début de la mise en euvre
+## II_Début de la mise en euvre
 
 Vous pourrier voir le debut de la réalisation d'un prototipe sur un site web 
 **(Ce dernier n'est pas complet)**
