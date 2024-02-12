@@ -9,9 +9,8 @@
 
 ## Un dossier ou une présentation contenant :
 - Description de la problématique
-```
-Comment pourrais ton rendre le site RFC plus praticaple et plus sastifaisant a l'usage .
-```
+
+> Comment rendre l'expérience utilisateur sur le site RFC plus fluide et plus satisfaisante, afin de répondre aux besoins et aux attentes des utilisateurs de manière efficace et intuitive ?
 
 ---
 - Besoin(s) utilisateur(s) clair : Empathy map, persona …
@@ -29,15 +28,25 @@ image de dessin main
 - Maquette et enchaînement de plusieurs écrans : Prototype
 
 Prototype : 
-[Lien Figma:](https://www.figma.com/proto/RIecnwJnqqKcUQL3OkSIOD/Projhet-UI?type=design&node-id=45-6&t=VJoP36mwD4Bsu802-0&scaling=scale-down&page-id=5%3A3&starting-point-node-id=45%3A6)
+  - Pour Ordinateur :
+    [Lien Figma:](https://www.figma.com/proto/RIecnwJnqqKcUQL3OkSIOD/Projhet-UI?type=design&node-id=45-6&t=VJoP36mwD4Bsu802-0&scaling=scale-down&page-id=5%3A3&starting-point-node-id=45%3A6)
+
+  - Pour Téléphone :
+    [Lien FIgma](https://www.figma.com/proto/RIecnwJnqqKcUQL3OkSIOD/Projhet-UI?type=design&node-id=132-17&t=jhR4T5HjbP6q6WPQ-0&scaling=scale-down&page-id=5%3A2&starting-point-node-id=132%3A17)
 
 ---
 - Résultats de tests utilisateurs
+
+Question : Pouvez-vous aller jusqu'au menu de presentation puis sur une RMC ?
+
 ```
 Bouton en savoir plus pas assez évident.
 Par la suite nous avons changer l'apparence du bouton et améliorer son rendue.
 ```
 
-# Site Web 
+# Début de la mise en euvre
+
+Vous pourrier voir le debut de la réalisation d'un prototipe sur un site web 
+**(Ce dernier n'est pas complet)**
 
 [Site Web](https://soulsw0rd.github.io/UXDesignRendu/Site_Web/Index.html)
