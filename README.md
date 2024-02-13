@@ -27,7 +27,7 @@ Comment rendre l'expérience utilisateur sur le site RFC plus fluide et plus sat
 - Image de dessin :
 
 | Tables |  |  | 
-|:---------|------:| 
+|:---------|:-------------:|------:| 
 | ![Image1](./Image/image11.png) | |
 | ![Image2](./Image/image12.png) | |
 | ![Image3](./Image/image22.png) | |
