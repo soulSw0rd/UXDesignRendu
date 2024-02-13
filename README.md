@@ -19,10 +19,21 @@ Comment rendre l'expérience utilisateur sur le site RFC plus fluide et plus sat
   - **Je voudrais** : C’est l’action exécutée, le comment.
   - **Pour**        : C’est la valeur ajoutée que l’utilisateur obtient de l’action, lié à ses motivations.
 
-- Notre besion utilisateur est : 
+### 2.1 Empathy map
+
+| Qui est-il | Quels sont ses objectifs ? |
+|:---------|:-------------|
+| Ce qu'il entend | Ce qu'il voit |
+| Ce qu'il dit | Ce qu'il fait |
+| Ses craintes et frustations | Ses bénéfices |
+
+
+### 2.2 Besoin utilisateur
+
+Notre besion utilisateur est : 
 ***En tant que technicien réseau, je voudrais avoir accès à des ressources documentaires pour renforcer mes compétences.***
 
-### 3. Analyse compétitive
+### 2.3 Analyse compétitive
 
 |  | App de Base (RFC) | Doc Antible | Doc Unity | Archive.org |
 |:---------|:-------------:|:-------------:|:-------------:|:-------------:|
