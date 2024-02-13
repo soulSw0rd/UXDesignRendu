@@ -26,11 +26,11 @@ Comment rendre l'expérience utilisateur sur le site RFC plus fluide et plus sat
 
 |  | App de Base (RFC) | Doc Antible | Doc Unity | Archive.org |
 |:---------|:-------------:|:-------------:|:-------------:|:-------------:|
-| Barre de recherche Dynamique  |  |  |  |  |
-| Lisibilité                    |  |  |  |  |
-| Originalité                   |  |  |  |  |
-| Orgianisé                     |  |  |  |  |
-| Shema                         |  |  |  |  |
+| Barre de recherche Dynamique  | ❌ | 😍 | 😍 | 😊 |
+| Lisibilité                    | 😠 | 😊 | 😍 | 😊 |
+| Originalité                   | 😊 | 😊 | 😍 | 😍 |
+| Orgianisé                     | 😊 | 😊 | 😊 | 😍 |
+| Shema                         | ❌ | 😊 | 😊 | ❌ |
 
 
 ### 4. Solution argumentée : 6 to 1, dessins, wireframes
