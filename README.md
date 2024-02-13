@@ -25,7 +25,7 @@ Comment rendre l'expérience utilisateur sur le site RFC plus fluide et plus sat
 ### 3. Analyse compétitive
 
 |  | App de Base (RFC) | Doc Antible | Doc Unity | Archive.org |
-|:---------|:-------------:|------:| 
+|:---------|:-------------:|:-------------:|:-------------:|:-------------:|------:| 
 | Barre de recherche Dynamique  |  |  |  |  |
 | Lisibilité                    |  |  |  |  |
 | Originalité                   |  |  |  |  |
