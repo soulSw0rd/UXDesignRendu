@@ -33,9 +33,9 @@ Comment rendre l'expérience utilisateur sur le site RFC plus fluide et plus sat
 |![Image4](./Image/image23.png)||
 |![Image5](./Image/image24.png)||
 
-| Tables | Are | Cool | 
-|----------|:-------------:|------:| 
-| col 1 is| left-aligned | $1600 |
+| Tables |  |  | 
+|:---------|:-------------:|------:| 
+| | | |
 
 
 ### 4. Maquette et enchaînement de plusieurs écrans : Prototype
