@@ -21,19 +21,41 @@ Comment rendre l'expérience utilisateur sur le site RFC plus fluide et plus sat
 
 ### 2.1 Empathy map
 
-| La personne 
-- Qui souhaitons-nous comprendre ? Technicien réseau.
-- Sa situation : A besoin de renforcer ses compétences via l'accès à des ressources documentaires.
-- Son rôle : Utilisateur du site RFC cherchant à améliorer son expérience utilisateur. | Ce qu'elle a besoin de faire 
-- Que doit-elle faire de manière différente ? Naviguer efficacement sur le site RFC pour trouver des ressources utiles.
-- Quelles tâches souhaite-t-elle pouvoir réaliser ? Accéder rapidement à des guides et documentations techniques.
-- Comment saura-t-elle qu'elle a réussi ? Lorsqu'elle aura facilement trouvé les informations recherchées et sentira une amélioration dans ses compétences techniques.
-|
-|:---------|:-------------|
-| Ce qu'il entend | Ce qu'il voit |
-| Ce qu'il dit | Ce qu'il fait |
-| Ses craintes et frustations | Ses bénéfices |
+- La personne
+  - Qui souhaitons-nous comprendre ? Technicien réseau.
+  - Sa situation : A besoin de renforcer ses compétences via l'accès à des ressources documentaires.
+  - Son rôle : Utilisateur du site RFC cherchant à améliorer son expérience utilisateur.
 
+- Ce qu'elle a besoin de faire
+  - Que doit-elle faire de manière différente ? Naviguer efficacement sur le site RFC pour trouver des ressources utiles.
+  - Quelles tâches souhaite-t-elle pouvoir réaliser ? Accéder rapidement à des guides et documentations techniques.
+  - Comment saura-t-elle qu'elle a réussi ? Lorsqu'elle aura facilement trouvé les informations recherchées et sentira une amélioration dans ses compétences techniques.
+
+- Ce qu'elle voit
+  - Marché/offres : Le technicien voit les offres de formation et les ressources disponibles sur le marché.
+  - Environnement immédiat : Un bureau ou un espace de travail avec des outils informatiques.
+  - Ce que font les autres : Les collègues utilisent peut-être d'autres sites ou plateformes pour des besoins similaires.
+  - Lectures, films, vidéos : Potentiellement des tutoriels vidéo, des webinaires, et des documents techniques.
+
+- Ce qu'elle dit
+  - Ce que nous avons entendu dire par cette personne : Peut exprimer des frustrations sur l'accessibilité et la pertinence des informations sur le site actuel.
+  - Ce qu'elle pourrait dire : Après les améliorations, elle pourrait commenter positivement la facilité d'utilisation et la qualité des ressources trouvées.
+
+- Ce qu'elle fait
+  - Au quotidien : Recherche d'informations, étude de documents techniques, application des connaissances acquises.
+  - Comportement observé : Naviguer sur le site, lire des articles, regarder des vidéos, participer à des forums.
+  - Ce qu'elle pourrait faire : Devenir un utilisateur régulier du site, contribuer à des communautés en ligne, partager des feedbacks sur les ressources.
+
+- Ce qu'elle entend
+  - Ce que disent les autres : Peut-être des commentaires ou des critiques sur les différents outils et ressources disponibles.
+  - Ce que disent ses amis : Recommandations ou mises en garde concernant certaines sources d'information.
+  - Ce que disent ses collègues : Conseils sur les ressources les plus utiles ou efficaces pour le développement professionnel.
+  - Les on-dit : Tendances générales ou opinions sur le domaine des ressources informatiques pour techniciens réseau.
+
+- Ce qu'elle pense et ressent
+  - Problèmes : Peurs de ne pas rester à jour avec les compétences techniques, frustrations liées à des interfaces utilisateur mal conçues, obstacles dans la recherche  d'informations pertinentes.
+  - Aspirations : Souhaite être compétent et reconnu dans son domaine, rêve d'ascension professionnelle.
+  - Autres pensées qui pourraient influencer son comportement : L'importance de la formation continue et le désir d'efficacité et d'autonomie dans l'apprentissage.
 
 ### 2.2 Besoin utilisateur
 
