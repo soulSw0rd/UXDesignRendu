@@ -21,7 +21,14 @@ Comment rendre l'expérience utilisateur sur le site RFC plus fluide et plus sat
 
 ### 2.1 Empathy map
 
-| Qui est-il | Quels sont ses objectifs ? |
+| La personne 
+- Qui souhaitons-nous comprendre ? Technicien réseau.
+- Sa situation : A besoin de renforcer ses compétences via l'accès à des ressources documentaires.
+- Son rôle : Utilisateur du site RFC cherchant à améliorer son expérience utilisateur. | Ce qu'elle a besoin de faire 
+- Que doit-elle faire de manière différente ? Naviguer efficacement sur le site RFC pour trouver des ressources utiles.
+- Quelles tâches souhaite-t-elle pouvoir réaliser ? Accéder rapidement à des guides et documentations techniques.
+- Comment saura-t-elle qu'elle a réussi ? Lorsqu'elle aura facilement trouvé les informations recherchées et sentira une amélioration dans ses compétences techniques.
+|
 |:---------|:-------------|
 | Ce qu'il entend | Ce qu'il voit |
 | Ce qu'il dit | Ce qu'il fait |
