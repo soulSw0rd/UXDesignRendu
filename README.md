@@ -22,7 +22,18 @@ Comment rendre l'expérience utilisateur sur le site RFC plus fluide et plus sat
 - Notre besion utilisateur est : 
 ***En tant que technicien réseau, je voudrais avoir accès à des ressources documentaires pour renforcer mes compétences.***
 
-### 3. Solution argumentée : 6 to 1, dessins, wireframes
+### 3. Analyse compétitive
+
+|  | App de Base (RFC) | Doc Antible | Doc Unity | Archive.org |
+|:---------|:-------------:|------:| 
+| Barre de recherche Dynamique  |  |  |  |  |
+| Lisibilité                    |  |  |  |  |
+| Originalité                   |  |  |  |  |
+| Orgianisé                     |  |  |  |  |
+| Shema                         |  |  |  |  |
+
+
+### 4. Solution argumentée : 6 to 1, dessins, wireframes
 
 - Image de dessin :
 
@@ -31,7 +42,7 @@ Comment rendre l'expérience utilisateur sur le site RFC plus fluide et plus sat
 | ![Image3](./Image/image22.png) | ![Image4](./Image/image23.png) | ![Image5](./Image/image24.png) |
 
 
-### 4. Maquette et enchaînement de plusieurs écrans : Prototype
+### 5. Maquette et enchaînement de plusieurs écrans : Prototype
 
 - Prototype : 
   - Pour Ordinateur :
@@ -40,7 +51,7 @@ Comment rendre l'expérience utilisateur sur le site RFC plus fluide et plus sat
   - Pour Téléphone :
     [Lien FIgma](https://www.figma.com/proto/RIecnwJnqqKcUQL3OkSIOD/Projhet-UI?type=design&node-id=132-17&t=jhR4T5HjbP6q6WPQ-0&scaling=scale-down&page-id=5%3A2&starting-point-node-id=132%3A17)
 
-### 5. Résultats de tests utilisateurs
+### 6. Résultats de tests utilisateurs
 
 Question : Pouvez-vous aller jusqu'au menu de presentation, puis sur une RMC ?
 
