@@ -87,7 +87,7 @@ Notre besion utilisateur est :
 
 ### 6. Résultats de tests utilisateurs
 
-Question : Pouvez-vous aller jusqu'au menu de presentation, puis sur une RMC ?
+Question : Pouvez-vous aller jusqu'au menu de presentation, puis sur une RFC ?
 
 ```
 Bouton en savoir plus pas assez évident.
